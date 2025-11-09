@@ -1,6 +1,6 @@
-# 🤝 Contributing to DSAverseX
+# 🤝 Contributing to DSAverse
 
-Thank you for your interest in contributing to **🌌 DSAverseX: A Community-driven Library of Algorithm and Data Structure Solutions**.
+Thank you for your interest in contributing to **🌌 DSAverse: A Community-driven Library of Algorithm and Data Structure Solutions**.
 This guide will show you how to add your code, suggest improvements, and support fellow contributors.
 
 ---
@@ -29,7 +29,7 @@ This guide will show you how to add your code, suggest improvements, and support
 
 3. **💻 Clone Your Fork Locally**  
    ```bash
-   git clone https://github.com/your-username/DSAverseX.git
+   git clone https://github.com/your-username/DSAverse.git
    cd DSAverseX
    ```
 
@@ -141,7 +141,7 @@ Together, let’s make this a positive space for learning and collaboration!
 
 ## 🌟 Thank You & Appreciation
 
-Every contribution—whether code, explanations, feedback, or ideas - helps make DSAverseX better.
+Every contribution—whether code, explanations, feedback, or ideas - helps make DSAverse better.
 We are grateful to everyone who helps build, improve, and support this project.
 
 Major contributors and those providing outstanding support are recognized in CONTRIBUTORS.md.
