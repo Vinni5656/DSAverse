@@ -26,7 +26,7 @@ Share your spark, shape the journey, and help chart new constellations in the ga
 - [x] Disjoint Set / Union Find
 - [x] Sliding Window
 - [x] Two Pointers
-- [x] Miscellaneous
+- [x] Miscellaneous (Topics or problems that don’t fit standard categories)
 
 ---
 
