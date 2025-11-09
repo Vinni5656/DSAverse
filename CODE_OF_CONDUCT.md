@@ -1,11 +1,11 @@
 # Code of Conduct
 
-Welcome to DSAverseX - a collaborative space for sharing and exploring solutions in algorithms and data structures.
+Welcome to DSAverse - a collaborative space for sharing and exploring solutions in algorithms and data structures.
 We’re committed to fostering a positive, inclusive environment where every contributor’s input is valued and everyone can grow together.
 
 
 ## Introduction
-This document sets out the behaviors expected of everyone who interacts on DSAverseX, as well as the principles that guide community engagement.
+This document sets out the behaviors expected of everyone who interacts on DSAverse, as well as the principles that guide community engagement.
 
 
 ## Our Standards
@@ -37,7 +37,7 @@ Maintainers may edit or remove content, or limit access if contributions violate
 
 ## Coverage
 - Applies to every space related to the project - GitHub repos, issues, PRs, chats.
-- Applies whenever someone represents DSAverseX or its community.
+- Applies whenever someone represents DSAverse or its community.
 
 
 ## Reporting Concerns
@@ -50,4 +50,4 @@ This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
 
 ## Summary
 
-By participating in DSAversX, you agree to uphold these principles and help us create a positive, inclusive environment for all.
+By participating in DSAverse, you agree to uphold these principles and help us create a positive, inclusive environment for all.
